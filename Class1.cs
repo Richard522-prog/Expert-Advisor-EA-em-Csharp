@@ -8,5 +8,6 @@ namespace Expert_Adsivor__EA_
 {
     public class Class1
     {
+        public int teste;
     }
 }
